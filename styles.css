@@ -1,0 +1,27 @@
+* {
+    background-color: salmon;
+    font-family: "Segoe UI", Helvetica, sans-serif;
+}
+
+h1,h2,h3,img {
+    background-color:aqua;
+    border-radius:25px;
+    border-style:hidden;
+    padding: 10px;
+}
+
+ul, ol{
+    background-color: goldenrod;
+    border-radius: 25px;
+    border-style: hidden;
+}
+
+h1 {
+    color: goldenrod;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
