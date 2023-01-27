@@ -10,7 +10,7 @@ h1,h2,h3,img {
     padding: 10px;
 }
 
-ul, ol{
+ul, ol, li, strong, a, em, p{
     background-color: goldenrod;
     border-radius: 25px;
     border-style: hidden;
@@ -24,4 +24,10 @@ h1 {
 
 h2 {
     color: red;
+}
+
+html{
+    flex:auto;
+    flex-direction: row;
+    align-items: center;
 }
